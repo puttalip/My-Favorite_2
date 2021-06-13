@@ -120,3 +120,16 @@ border: 10px solid #AAAAAA;
 img:hover{
     transform: scale(0.9);
 }
+
+
+#contact{
+    background-image: linear-gradient(#0000ff blue);
+}
+
+
+h3{
+    color:lavender;
+    text-decoration: underline;
+    text-shadow: lavenderblush;
+    font-size:25px;
+}
